@@ -87,4 +87,4 @@
 
 ---
 
-⭐️ By [Adrián Canosa](https://github.com/canosa92)
+⭐️ Crafted with ❤️ by **Adrián Canosa**
