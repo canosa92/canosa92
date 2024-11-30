@@ -39,64 +39,51 @@
 
 ### 🌟 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 48%; margin-bottom: 20px;">
-    <h4>🛍️ PokeStore</h4>
-    
-    [![PokeStore](https://github-readme-stats.vercel.app/api/pin/?username=canosa92&repo=PokeStore-project&theme=radical&show_owner=true)](https://github.com/canosa92/PokeStore-project)
-    
-    - 🚀 Full-featured Pokémon E-commerce Platform
-    - 🔧 **Technologies:** Node.js, Express.js, MongoDB, React.js, Vite
-    - ✨ **Key Features:**
-      * Product filtering & management
-      * Shopping cart functionality
-      * User authentication
-      * Admin dashboard
-      * Responsive design
-  </div>
-  
-  <div style="width: 48%; margin-bottom: 20px;">
-    <h4>🎮 Snake Game</h4>
-    
-    [![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=canosa92&repo=snake-game&theme=radical&show_owner=true)](https://github.com/canosa92/snake-game)
-    
-    - 🐍 Classic Snake Game Web Application
-    - 🛠️ **Technologies:** JavaScript, HTML, CSS
-    - ✨ **Key Features:**
-      * Responsive game design
-      * Score tracking
-      * Smooth game mechanics
-      * Pure frontend implementation
-  </div>
+#### 🛍️ PokeStore  
+[![PokeStore](https://github-readme-stats.vercel.app/api/pin/?username=canosa92&repo=PokeStore-project&theme=radical&show_owner=true)](https://github.com/canosa92/PokeStore-project)  
 
-  <div style="width: 48%; margin-bottom: 20px;">
-    <h4>🌐 Local Bar Website</h4>
-    
-    [![35 Bar](https://github-readme-stats.vercel.app/api/pin/?username=canosa92&repo=35Bar&theme=radical&show_owner=true)](https://github.com/canosa92/35Bar)
-    
-    - 🍺 Responsive Local Bar Website
-    - 🔧 **Technologies:** HTML, CSS, Bootstrap
-    - ✨ **Key Features:**
-      * Mobile-friendly design
-      * Clean, modern UI
-      * Showcase of local business
-      * Responsive navigation
-  </div>
+- 🚀 Full-featured Pokémon E-commerce Platform  
+- 🔧 **Technologies:** Node.js, Express.js, MongoDB, React.js, Vite  
+- ✨ **Key Features:**  
+  - Product filtering & management  
+  - Shopping cart functionality  
+  - User authentication  
+  - Admin dashboard  
+  - Responsive design  
 
-  <div style="width: 48%; margin-bottom: 20px;">
-    <h4>🎲 Avengers Puzzle Game</h4>
-    
-    [![Avengers Puzzle](https://codepen.io/canosa92/details/MWGKEQy)](https://codepen.io/canosa92/full/MWGKEQy)
-    
-    - 🦸 Interactive Drag-and-Drop Puzzle Game
-    - 🛠️ **Technologies:** JavaScript, HTML, CSS
-    - ✨ **Key Features:**
-      * Drag and drop functionality
-      * Avengers theme
-      * Interactive game mechanics
-      * Responsive design
-  </div>
-</div>
+#### 🎮 Snake Game  
+[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=canosa92&repo=snake-game&theme=radical&show_owner=true)](https://github.com/canosa92/snake-game)  
+
+- 🐍 Classic Snake Game Web Application  
+- 🛠️ **Technologies:** JavaScript, HTML, CSS  
+- ✨ **Key Features:**  
+  - Responsive game design  
+  - Score tracking  
+  - Smooth game mechanics  
+  - Pure frontend implementation  
+
+#### 🌐 Local Bar Website  
+[![35 Bar](https://github-readme-stats.vercel.app/api/pin/?username=canosa92&repo=35Bar&theme=radical&show_owner=true)](https://github.com/canosa92/35Bar)  
+
+- 🍺 Responsive Local Bar Website  
+- 🔧 **Technologies:** HTML, CSS, Bootstrap  
+- ✨ **Key Features:**  
+  - Mobile-friendly design  
+  - Clean, modern UI  
+  - Showcase of local business  
+  - Responsive navigation  
+
+#### 🎲 Avengers Puzzle Game  
+[![Avengers Puzzle](https://codepen.io/canosa92/details/MWGKEQy)](https://codepen.io/canosa92/full/MWGKEQy)  
+
+- 🦸 Interactive Drag-and-Drop Puzzle Game  
+- 🛠️ **Technologies:** JavaScript, HTML, CSS  
+- ✨ **Key Features:**  
+  - Drag and drop functionality  
+  - Avengers theme  
+  - Interactive game mechanics  
+  - Responsive design  
+
 
 ### 📈 GitHub Stats
 
