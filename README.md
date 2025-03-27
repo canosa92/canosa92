@@ -95,7 +95,7 @@
 ### 📫 **Let's Connect and Collaborate!** 🤝
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adriancanosa">
+  <a href="https://www.linkedin.com/in/adrian-canosa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="250"/>
   </a>
   
